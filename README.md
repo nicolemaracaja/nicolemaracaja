@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nicole!
 - 👀 I’m interested in software development, data science, and artificial intelligence.
-- 🌱  I’m currently studying Computer Science at the Federal University of Campina Grande (UFCG). I have experience with Python and Java, and i'm currently expanding my skills in web development.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: Besides coding, i love watching and reviewing movies. I'm passionate about cinema and enjoy analyzing films in my free time!
 - 📫 How to reach me:
