@@ -7,10 +7,6 @@ Me chamo Nicole, tenho 22 anos e sou natural da Paraíba. Atualmente curso Ciên
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-maracaj%C3%A1-504977270?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOGDwZR6%2FRvq4N0k9bFGxEw%3D%3D)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicole.brito.maracaja@ccc.ufcg.edu.br)
 
-[![card](https://github-readme-stats.vercel.app/api?username=nicolemaracaja&theme=dracula)](https://github.com/nicolemaracaja/)
-
-[![nicolemaracaja](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolemaracaja&hide=html&layout=compact&theme=dracula)](https://github.com/nicolemaracaja/)
-
 ### 📊 Estatísticas
 
 <p>
