@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Nicole Maracajá
 
-Me chamo Nicole, tenho 22 anos e sou natural da Paraíba. Atualmente curso Ciência da Computação na Universidade Federal de Campina Grande (UFCG). Sou entusiasta da tecnologia e enxergo na computação uma poderosa aliada para promover transformações reais na sociedade. Tenho interesse especial em desenvolvimento web e ciência de dados, áreas que venho explorando ao longo da graduação e por meio de projetos práticos que reforçam minha formação técnica e criativa.
+Me chamo Nicole, tenho 23 anos e sou natural da Paraíba. Atualmente curso Ciência da Computação na Universidade Federal de Campina Grande (UFCG). Sou entusiasta da tecnologia e enxergo na computação uma poderosa aliada para promover transformações reais na sociedade. Tenho interesse especial em desenvolvimento web e ciência de dados, áreas que venho explorando ao longo da graduação e por meio de projetos práticos que reforçam minha formação técnica e criativa.
 
 - 📫 Como me encontrar:
   
