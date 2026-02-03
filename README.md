@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Nicole Maracajá
 
-Me chamo Nicole, tenho 23 anos e sou natural da Paraíba. Atualmente curso Ciência da Computação na Universidade Federal de Campina Grande (UFCG) e atuo como desenvolvedora full stack no Laboratório de Sistemas da Informação da instituição (LSI). Sou entusiasta da tecnologia e acredito na computação como uma poderosa aliada para promover transformações reais na sociedade. Tenho interesse especial em desenvolvimento web e ciência de dados, áreas que venho explorando ao longo da graduação e em projetos práticos. Tenho focado meu aprendizado e prática em tecnologias como TypeScript, React e Java Spring.
+Me chamo Nicole, tenho 23 anos e sou natural da Paraíba. Atualmente curso Ciência da Computação na Universidade Federal de Campina Grande (UFCG) e atuo como desenvolvedora full stack no Laboratório de Sistemas de Informação (LSI) da Instituição. Sou entusiasta da tecnologia e acredito na computação como uma poderosa aliada para promover transformações reais na sociedade. Tenho interesse especial em desenvolvimento web e ciência de dados, áreas que venho explorando ao longo da graduação e em projetos práticos. Tenho focado meu aprendizado e prática em tecnologias como TypeScript, React e Java Spring.
 
 - 📫 Como me encontrar:
   
